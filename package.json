@@ -1,0 +1,10 @@
+{
+    "name": "loozresume",
+    "version": "1.0.0",
+    "description": "loozresume",
+    "author": "luzhenguo@mail.ru",
+    "private": true,
+    "scripts": {
+      "postinstall": "npm install express"
+    }
+  }
